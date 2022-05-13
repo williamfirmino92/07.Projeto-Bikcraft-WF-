@@ -1,10 +1,10 @@
 # Projeto Origamid - Site Bikcraft
 
-Fomos desafiados a realizar um website para uma ONG fictícia chamada ADOTE AQUI.
+O projeto BICKCRAFT foi desenvolvido no curso WEBDESIGN da ORIGAMID. Nele, aprimorei minhas habilidades de posicionamento no CSS. Foi a primeira página que realizei linkando as páginas entre si, além de estar bem estruturado e visualmente de fácil acessibilidade.
 
 ## 🚀 Finalidade
 
-O projeto foi realizado com finalidade do desenvolvimento de uma página web voltada para a adoção de animais, no caso, a Adote Aqui. Foi uma proposta do curso RESILIA EDUCAÇÃO, como projeto final do MÓDULO 1 em formação de desenvolvedor web Full Stack. Foi o primeiro modelo de site que realizei.
+A ideia de realizar esse projeto foi da necessidade que senti em estar aprimorando o conhecimento do CSS3, especificamente o FLEXBOX.
 
 
 ## 📋 Tecnologias utilizadas
@@ -18,20 +18,19 @@ O projeto foi realizado com finalidade do desenvolvimento de uma página web vol
 
 ## 📦 Desenvolvimento
 
-Utilizei como base as aulas e códigos demostrados em aulas do curso. 
+Utilizei como base as aulas e códigos demostrados em aulas do curso WEBDESIGN. 
 
-📌 Link do site aonde extrai as fotos: https://unsplash.com/
-
-
-## 📄 Versão
-
-Realizei duas versões da mesma proposta. A primeira optei em colocar um site mais moderno, mas acabei não utilizando a estruturação correta do html.
-Já na segunda, ficou um site mais estruturado com a utilização do HTML semântico.
+📌 Link do site aonde realizei o curso: https://www.origamid.com/
 
 
+## 📄 Projeto
 
 
-📌 Link do projeto no github Pages: https://williamfirmino92.github.io/02.Projeto-Adote-Aqui-WF/
+![image](https://user-images.githubusercontent.com/89873481/168302568-d93c8955-691e-4940-81df-0201cdb8df0a.png)
+
+
+
+📌 Link do projeto no github Pages: https://williamfirmino92.github.io/05.Projeto-Bikcraft-WF-/index.html
  
 
 
