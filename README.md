@@ -30,7 +30,7 @@ Utilizei como base as aulas e códigos demostrados em aulas do curso WEBDESIGN.
 
 
 
-📌 Link do projeto no github Pages: https://williamfirmino92.github.io/05.Projeto-Bikcraft-WF-/index.html
+📌 Link do projeto no github Pages: https://williamfirmino92.github.io/07.Projeto-Bikcraft-WF-/
  
 
 
